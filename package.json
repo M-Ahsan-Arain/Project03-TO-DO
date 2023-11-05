@@ -1,0 +1,23 @@
+{
+  "name": "@ahsan18/ahsan-todo",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "@ahsan18/ahsan-todo": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ahsan18/ahsan-todo": "^1.2.0",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6"
+  }
+}
